@@ -1,7 +1,7 @@
-# trillo App
+# trillo website
 
-Trillo App for a non-existent hotel.
+Trillo website for a non-existent hotel.
 
-This project was designed as a part of a Advanced CSS course by Jonas Schmedtmann
+This website was designed as a part of an advanced CSS course by Jonas Schmedtmann
 
 https://www.udemy.com/course/advanced-css-and-sass/
